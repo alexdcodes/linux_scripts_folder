@@ -1,2 +1,4 @@
-# linux_scripts_folder
-Linux scripts folder
+## 🐧 Linux Scripts Folders 
+
+# 📄 Just random scripts i use easier to pull 
+
