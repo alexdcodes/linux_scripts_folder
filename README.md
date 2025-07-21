@@ -1,4 +1,5 @@
-## 🐧 Linux Scripts Folders 
+# 🐧 Linux Scripts Folders 
 
-# 📄 Just random scripts i use easier to pull 
+## 📄 : fail2ban-status | script - something i always use, so i made it accessable. 
+## 📄 : 
 
